@@ -1,6 +1,6 @@
 # ⚽ Brasileirão Dashboard
 
-Dashboard interativo de análise de dados do Campeonato Brasileiro Série A (2003–2024), desenvolvido com Python e Streamlit.
+Dashboard interativo de análise de dados do Campeonato Brasileiro Série A (2003–2024), desenvolvido junto ao claude com Python e Streamlit 
 
 ---
 
@@ -140,5 +140,5 @@ O dataset cobre todas as partidas do **Campeonato Brasileiro Série A de 2003 a 
 
 ## 👤 Autor
 
-Desenvolvido por **Lp.**  
-[LinkedIn](https://linkedin.com/in/seu-perfil) • [GitHub](https://github.com/seu-usuario)
+Desenvolvido por **Leo Pacheco.**  
+[LinkedIn](https://linkedin.com/in/leonardo-pacheco-pereiraabc) • [GitHub](https://github.com/Leopachecop)
